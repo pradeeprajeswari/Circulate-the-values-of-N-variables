@@ -1,4 +1,4 @@
-![swapcirculate png](https://github.com/pradeeprajeswari/Circulate-the-values-of-N-variables/assets/145743112/b8c9421f-2feb-4baa-8e29-4da5cf4cf4af)# Circulate-the-values-of-N-variables
+# CIRCULATE THE VALUES OF N VARIABLES
 ## Aim:
 To write a python program to circulate the n variables using function concept
 ## Equipment’s required:
