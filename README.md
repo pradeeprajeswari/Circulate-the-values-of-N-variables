@@ -32,7 +32,7 @@ def circulate():
 ```
 ## Output:!
 
-![swapcirculate png](https://github.com/pradeeprajeswari/Circulate-the-values-of-N-variables/assets/145743112/135d2473-6f9a-4a26-a2c4-4c3f8cc6c09a)
+![circuatetwo values png](https://github.com/pradeeprajeswari/Circulate-the-values-of-N-variables/assets/145743112/1bfb4e7a-0f81-477e-8eed-61aed00385c7)
 
 
 ## Result:
